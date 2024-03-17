@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - zemin
+  - engel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background5
+    uniqueID: 1313250443
+    locked: 0
+  - name: Background4
+    uniqueID: 2597488951
+    locked: 0
+  - name: Background3
+    uniqueID: 450259969
+    locked: 0
+  - name: Background2
+    uniqueID: 2230085053
+    locked: 0
+  - name: Background1
+    uniqueID: 2387426559
+    locked: 0
+  - name: Background
+    uniqueID: 2432953517
+    locked: 0
+  - name: "backgr\u0131und-esya"
+    uniqueID: 2293180457
+    locked: 0
+  - name: Midground
+    uniqueID: 3200922927
+    locked: 0
+  - name: Forground
+    uniqueID: 1586786557
+    locked: 0
